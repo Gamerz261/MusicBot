@@ -1,0 +1,6 @@
+# Entry removed Sun Jan  3 14:31:44 2021
+# Reason: ERROR: no conn, hlsvp, hlsManifestUrl or url_encoded_fmt_stream_map information found in video info
+https://youtube.com/watch?v=m3auI7AYoZA
+
+################################
+
